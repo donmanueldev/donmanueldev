@@ -1,31 +1,38 @@
 # Hello, I’m Manuel Duarte 👋
 
-I’m a **Senior Software Engineer** based in Managua, Nicaragua 🇳🇮.
+I’m a **Senior Software Engineer** based in Managua, Nicaragua 🇳🇮, focused on **Laravel backends and cross-platform mobile apps**.
 
 I’m also a **co-founder and COO at Momotombo**, where we build products including **Plun, QLNK and MiLiga**.
 
-I build mobile products primarily with **React Native and Expo**, and web products and backend APIs with **Laravel, PHP and PostgreSQL**. I use **Java and Android** for current work and native capabilities, and **Python and AI** for new product opportunities. My work spans digital banking, fintech and consumer applications, with a focus on maintainability, testing and production delivery.
+I build backend APIs and web products with **Laravel, PHP and PostgreSQL**, using **Inertia.js** with React on the web. On mobile I work with **React Native and Expo**, and with **NativePHP Mobile** when a Laravel codebase should ship as a native app. In my day-to-day work in digital banking I use **Java and Android**. My work spans digital banking, fintech and consumer applications, with a focus on maintainability, testing and production delivery.
 
 ## Current focus
 
+- 🧱 Backend APIs with Laravel, PHP and PostgreSQL
+- 🌐 Web products with Laravel, Inertia.js and React
 - 📲 Cross-platform mobile development with React Native and Expo
-- 🌐 Web products and backend APIs with Laravel, PHP and PostgreSQL
-- ☕ Java and Android for current work and native capabilities
-- 🐍 Python and AI for new product opportunities
-- 🧱 Maintainable application architecture and reliable integrations
+- 📱 Laravel-powered native apps with NativePHP Mobile
+- ☕ Java and Android in digital banking
 - 🧪 Unit, integration and UI testing; CI/CD and production delivery
 
 ## Core stack
 
 <p>
-  <img width="42" alt="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img width="42" alt="Expo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
   <img width="42" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   <img width="42" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img width="42" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="42" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="42" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
   <img width="42" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img width="42" alt="React and React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="42" alt="Expo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
+  <img width="42" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="Inertia.js" src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat&logo=inertia&logoColor=white" />
+</p>
+
+**Also:**
+
+<p>
+  <img width="36" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="36" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img width="36" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
 </p>
 
 ## Selected engineering work
@@ -52,13 +59,13 @@ The application is available on Google Play and includes a public product websit
 
 [View repository](https://github.com/momotombodevs/desperta) · [View website](https://desperta.momotombo.dev/) · [Google Play](https://play.google.com/store/apps/details?id=dev.momotombo.desperta)
 
-### Mombodoro
+### Elver
 
-A desktop focus timer built with **Compose Desktop**.
+A weather app built with **Laravel and NativePHP Mobile**, with forecasts, native charts, saved locations and climate alerts. Recent data is stored on the device.
 
-Mombodoro includes configurable focus sessions, task management, notifications and native macOS integration through a Swift menu-bar host. Its timer domain, task persistence, UI behavior and native macOS integration are covered by automated tests.
+<!-- TODO: add 1-2 sentences on what you built (architecture, native integrations, tests) and a store/website link if it is published. -->
 
-[View repository](https://github.com/donmanueldev/mombodoro) · [View website](https://donmanueldev.github.io/mombodoro/)
+[View repository](https://github.com/momotombodevs/elver-nativephp-app)
 
 ### NativePHP Charts
 
@@ -67,6 +74,14 @@ An open-source native charting package for NativePHP Mobile.
 Android renderers use **Jetpack Compose Canvas**, while iOS renderers use Swift Charts. The package includes automated tests, CI, accessibility support, security documentation and published releases.
 
 [View repository](https://github.com/donmanueldev/nativephp-charts)
+
+<!--
+TODO: add your Laravel + Inertia.js (React) project here. This is the most important missing piece for your positioning.
+### Project name
+One line on the product, then: Laravel API, Inertia.js + React frontend, PostgreSQL, tests, CI. Add repo and live links.
+-->
+
+## Native Android & desktop
 
 ### NotyApp
 
@@ -77,6 +92,14 @@ Built with **Jetpack Compose, Room, Hilt, Coroutines and Flow**, following MVVM 
 NotyApp is published on Google Play and does not collect or share user data.
 
 [View repository](https://github.com/donmanueldev/NoteKT) · [Google Play](https://play.google.com/store/apps/details?id=com.manuelduarte077.notyapp)
+
+### Mombodoro
+
+A desktop focus timer built with **Compose Desktop**.
+
+Mombodoro includes configurable focus sessions, task management, notifications and native macOS integration through a Swift menu-bar host. Its timer domain, task persistence, UI behavior and native macOS integration are covered by automated tests.
+
+[View repository](https://github.com/donmanueldev/mombodoro) · [View website](https://donmanueldev.github.io/mombodoro/)
 
 ## Shipped applications
 
@@ -90,6 +113,7 @@ NotyApp is published on Google Play and does not collect or share user data.
 </p>
 
 - Radio La Tuani 100.3 FM — [Android](https://play.google.com/store/apps/details?id=ni.com.latuani.app.radio) · [iOS](https://apps.apple.com/ni/app/radio-la-tuani-100-3-fm/id6757318266?l=en-GB)
+- [Despertá — Google Play](https://play.google.com/store/apps/details?id=dev.momotombo.desperta)
 - [NotyApp — Google Play](https://play.google.com/store/apps/details?id=com.manuelduarte077.notyapp)
 - [Cuenta Clara](https://cuentaclara.momotombo.dev/)
 - [Todo Anotadito](https://www.donmanuel.dev/projects/todoanotadito)
@@ -97,15 +121,13 @@ NotyApp is published on Google Play and does not collect or share user data.
 
 ## Additional experience
 
-I also have experience with **Swift, SwiftUI, UIKit, Spring Boot and TypeScript**, supporting existing products and native integrations.
-
+I also have experience with **Swift, SwiftUI, UIKit and Spring Boot**, supporting existing products and native integrations.
 
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Duarte-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelduarte077/)
-[![Website](https://img.shields.io/badge/Website-donmanuel.dev-24292F?style=flat&logo=google-chrome&logoColor=white)](https://www.donmanuel.dev)
+[![Website](https://img.shields.io/badge/Website-momotombo.dev-24292F?style=flat&logo=google-chrome&logoColor=white)](https://www.momotombo.dev)
 [![X](https://img.shields.io/badge/X-@donmanueldev-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/donmanueldev)
-
 
 ## My GitHub stats
 
@@ -113,5 +135,5 @@ I also have experience with **Swift, SwiftUI, UIKit, Spring Boot and TypeScript*
   <a href="https://github.com/donmanueldev">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=donmanueldev&show_icons=true&theme=buefy&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=donmanueldev&layout=compact&langs_count=8&theme=buefy&count_private=true"/>
-  </a>  
+  </a>
 </p>
