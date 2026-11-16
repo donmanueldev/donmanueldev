@@ -4,7 +4,7 @@ I’m a **Senior Software Engineer** based in Managua, Nicaragua 🇳🇮, focus
 
 I’m also a **co-founder and COO at Momotombo**, where we build products including **Plun, QLNK and MiLiga**.
 
-I build backend APIs and web products with **Laravel, PHP and PostgreSQL**, using **Inertia.js** with React on the web. On mobile I work with **React Native and Expo**, and with **NativePHP Mobile** when a Laravel codebase should ship as a native app. In my day-to-day work in digital banking I use **Java and Android**. My work spans digital banking, fintech and consumer applications, with a focus on maintainability, testing and production delivery.
+I build backend APIs and web products with **Laravel, PHP and PostgreSQL**, using **Inertia.js** with React on the web. On mobile I work with **React Native and Expo**, and with **NativePHP Mobile** when a Laravel codebase should ship as a native app. In my day-to-day work in digital banking I use **Java and Android**. My work spans digital banking, fintech and consumer applications, with a focus on maintainability, testing and production delivery. I'm also exploring AI features for my own products with **Python** (FastAPI, LLM APIs and retrieval-augmented generation).
 
 ## Current focus
 
@@ -13,6 +13,7 @@ I build backend APIs and web products with **Laravel, PHP and PostgreSQL**, usin
 - 📲 Cross-platform mobile development with React Native and Expo
 - 📱 Laravel-powered native apps with NativePHP Mobile
 - ☕ Java and Android in digital banking
+- 🤖 AI features with Python: FastAPI, LLM APIs and RAG (in progress)
 - 🧪 Unit, integration and UI testing; CI/CD and production delivery
 
 ## Core stack
@@ -30,6 +31,7 @@ I build backend APIs and web products with **Laravel, PHP and PostgreSQL**, usin
 **Also:**
 
 <p>
+  <img width="36" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="36" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img width="36" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img width="36" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
