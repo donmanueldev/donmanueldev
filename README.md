@@ -1,24 +1,25 @@
 # Hello, I’m Manuel Duarte 👋
 
-I’m a **Senior Software Engineer** based in Managua, Nicaragua 🇳🇮, focused on **Laravel backends and cross-platform mobile apps**.
+I’m a **Senior Software Engineer** based in Managua, Nicaragua 🇳🇮, specializing in **digital banking systems (Java & Kotlin)**, **scalable backend APIs (Laravel & PostgreSQL)**, and **native/cross-platform mobile applications**.
 
 I’m also a **co-founder and COO at Momotombo**, where we build products including **Plun, QLNK and MiLiga**.
 
-I build backend APIs and web products with **Laravel, PHP and PostgreSQL**, using **Inertia.js** with React on the web. On mobile I work with **React Native and Expo**, and with **NativePHP Mobile** when a Laravel codebase should ship as a native app. In my day-to-day work in digital banking I use **Java and Android**. My work spans digital banking, fintech and consumer applications, with a focus on maintainability, testing and production delivery. I'm also exploring AI features for my own products with **Python** (FastAPI, LLM APIs and retrieval-augmented generation).
+In my day-to-day work in digital banking, I architect and maintain mission-critical financial applications using **Java for native Android development, alongside Swift and Objective-C for iOS, and React Native for cross-platform solutions**. Alongside my banking work, I build robust backend services and web products with **Laravel, PHP, PostgreSQL, and Inertia.js (React)**. I am also actively integrating **AI agents, LLM APIs, and retrieval-augmented generation (RAG)** into production systems.
 
 ## Current focus
 
-- 🧱 Backend APIs with Laravel, PHP and PostgreSQL
-- 🌐 Web products with Laravel, Inertia.js and React
-- 📲 Cross-platform mobile development with React Native and Expo
-- 📱 Laravel-powered native apps with NativePHP Mobile
-- ☕ Java and Android in digital banking
-- 🤖 AI features with Python: FastAPI, LLM APIs and RAG (in progress)
+- 🏦 Digital banking & mission-critical systems (Java, Swift, Objective-C)
+- 📱 Native mobile development (Kotlin, Swift & React Native)
+- 🧱 Backend APIs & web products with Laravel, PHP, PostgreSQL & Inertia.js
+- 🤖 AI agents, WhatsApp automation & LLM integrations in production products
 - 🧪 Unit, integration and UI testing; CI/CD and production delivery
 
 ## Core stack
 
 <p>
+  <img width="42" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img width="42" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="42" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
   <img width="42" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   <img width="42" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img width="42" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -28,16 +29,15 @@ I build backend APIs and web products with **Laravel, PHP and PostgreSQL**, usin
   <img alt="Inertia.js" src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat&logo=inertia&logoColor=white" />
 </p>
 
-**Also:**
-
-<p>
-  <img width="36" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="36" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="36" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img width="36" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
-</p>
-
 ## Selected engineering work
+
+### Vanty
+
+An AI-powered scheduling and patient communication agent for medical clinics, integrated directly with the official WhatsApp Business API.
+
+Vanty handles automated appointment booking, rescheduling, cancellations, and reminder workflows 24/7, with seamless human handoff to clinic staff when personal attention is required.
+
+[View website](https://getvanty.com/)
 
 ### Radio La Tuani 100.3 FM
 
@@ -55,25 +55,17 @@ The production source code is maintained in a private repository.
 
 A challenge-based alarm application designed to help users start the day alert and focused.
 
-Built with **Laravel and NativePHP Mobile**, using native Android interfaces rendered with **Jetpack Compose**, local SQLite persistence and platform integrations for exact alarms, notifications and lock-screen behavior.
+Built with **Laravel**, using native Android interfaces rendered with **Jetpack Compose**, local SQLite persistence and platform integrations for exact alarms, notifications and lock-screen behavior.
 
 The application is available on Google Play and includes a public product website and privacy documentation.
 
 [View repository](https://github.com/momotombodevs/desperta) · [View website](https://desperta.momotombo.dev/) · [Google Play](https://play.google.com/store/apps/details?id=dev.momotombo.desperta)
 
-### Elver
+## Open-source packages
 
-A weather app built with **Laravel and NativePHP Mobile**, with forecasts, native charts, saved locations and climate alerts. Recent data is stored on the device.
-
-[View repository](https://github.com/momotombodevs/elver-nativephp-app)
-
-### NativePHP Charts
-
-An open-source native charting package for NativePHP Mobile.
-
-Android renderers use **Jetpack Compose Canvas**, while iOS renderers use Swift Charts. The package includes automated tests, CI, accessibility support, security documentation and published releases.
-
-[View repository](https://github.com/donmanueldev/nativephp-charts)
+- **[momotombo/stdnum-centroamerica](https://packagist.org/packages/momotombo/stdnum-centroamerica)** — Zero-dependency PHP library for validating, formatting, and compacting national identity and tax numbers across Central America (Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica, and Panama).
+- **[donmanueldev/nativephp-charts](https://packagist.org/packages/donmanueldev/nativephp-charts)** — Native charting plugin backed by **Jetpack Compose Canvas** on Android and **Swift Charts** on iOS, complete with automated tests and CI.
+- **[momotombo/nativephp-appearance](https://packagist.org/packages/momotombo/nativephp-appearance)** — Application-local light, dark, and system theme appearance management plugin for mobile applications.
 
 ## Native Android & desktop
 
@@ -106,6 +98,7 @@ Mombodoro includes configurable focus sessions, task management, notifications a
   </a>
 </p>
 
+- [Vanty — Smart AI Scheduling for Clinics](https://getvanty.com/)
 - Radio La Tuani 100.3 FM — [Android](https://play.google.com/store/apps/details?id=ni.com.latuani.app.radio) · [iOS](https://apps.apple.com/ni/app/radio-la-tuani-100-3-fm/id6757318266?l=en-GB)
 - [Despertá — Google Play](https://play.google.com/store/apps/details?id=dev.momotombo.desperta)
 - [NotyApp — Google Play](https://play.google.com/store/apps/details?id=com.manuelduarte077.notyapp)
@@ -115,7 +108,7 @@ Mombodoro includes configurable focus sessions, task management, notifications a
 
 ## Additional experience
 
-I also have experience with **Swift, SwiftUI, UIKit and Spring Boot**, supporting existing products and native integrations.
+I also have experience with secondary technologies such as **Swift, Objective-C, Spring Boot and Kotlin Multiplatform (KMP)**, supporting legacy systems, native iOS modules and enterprise backend integrations.
 
 ## Connect with me
 
