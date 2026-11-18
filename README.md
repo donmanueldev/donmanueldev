@@ -65,8 +65,6 @@ The application is available on Google Play and includes a public product websit
 
 A weather app built with **Laravel and NativePHP Mobile**, with forecasts, native charts, saved locations and climate alerts. Recent data is stored on the device.
 
-<!-- TODO: add 1-2 sentences on what you built (architecture, native integrations, tests) and a store/website link if it is published. -->
-
 [View repository](https://github.com/momotombodevs/elver-nativephp-app)
 
 ### NativePHP Charts
@@ -76,12 +74,6 @@ An open-source native charting package for NativePHP Mobile.
 Android renderers use **Jetpack Compose Canvas**, while iOS renderers use Swift Charts. The package includes automated tests, CI, accessibility support, security documentation and published releases.
 
 [View repository](https://github.com/donmanueldev/nativephp-charts)
-
-<!--
-TODO: add your Laravel + Inertia.js (React) project here. This is the most important missing piece for your positioning.
-### Project name
-One line on the product, then: Laravel API, Inertia.js + React frontend, PostgreSQL, tests, CI. Add repo and live links.
--->
 
 ## Native Android & desktop
 
@@ -133,9 +125,13 @@ I also have experience with **Swift, SwiftUI, UIKit and Spring Boot**, supportin
 
 ## My GitHub stats
 
-<p align="center">
-  <a href="https://github.com/donmanueldev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=donmanueldev&show_icons=true&theme=buefy&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=donmanueldev&layout=compact&langs_count=8&theme=buefy&count_private=true"/>
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-stats-extended.vercel.app/api?username=donmanueldev&rank_icon=github&show_icons=true&include_all_commits=true&theme=light_github" height="195" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=donmanueldev&layout=compact&langs_count=8&theme=light_github" height="195" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
