@@ -1,93 +1,89 @@
 # Hello, I’m Manuel Duarte 👋
 
-I’m a **Senior Software Engineer** based in Managua, Nicaragua 🇳🇮, specializing in **digital banking systems (Java & Kotlin)**, **scalable backend APIs (Laravel & PostgreSQL)**, and **native/cross-platform mobile applications**.
+I’m a **Senior Software Engineer** based in Managua, Nicaragua 🇳🇮, transitioning my deep background in **mission-critical mobile banking systems** and **production SaaS/backend products** toward **distributed backend architectures (TypeScript, Node.js, Python)** and **autonomous AI agent workflows**.
 
-I’m also a **co-founder and COO at Momotombo**, where we build products including **Plun, QLNK and MiLiga**.
+I’m also a **co-founder and COO at Momotombo Devs**, where we architect and ship production SaaS, e-commerce, mobile, and AI-driven products including **Vanty, Copelo, Cuenta Clara, Plun, QLNK, and MiLiga**.
 
-In my day-to-day work in digital banking, I architect and maintain mission-critical financial applications using **Java for native Android development, alongside Swift and Objective-C for iOS, and React Native for cross-platform solutions**. Alongside my banking work, I build robust backend services and web products with **Laravel, PHP, PostgreSQL, and Inertia.js (React)**. I am also actively integrating **AI agents, LLM APIs, and retrieval-augmented generation (RAG)** into production systems.
+In my day-to-day work in digital banking, I serve as a **Mobile Engineer**, building and maintaining mission-critical financial applications (**Java**, **Swift**, and **Objective-C**) under strict security, concurrency, and compliance standards. Alongside my banking role, at **Momotombo Devs** I architect backend services, cross-platform mobile apps (**React Native / TypeScript**), web platforms (**Laravel / Inertia.js**), and **production AI agents**—actively expanding my backend and AI engineering stack into **TypeScript (Fastify), Python (FastAPI), PostgreSQL (`pgvector`), and Redis**.
 
 ## Current focus
 
-- 🏦 Digital banking & mission-critical systems (Java, Swift, Objective-C)
-- 📱 Native mobile development (Kotlin, Swift & React Native)
-- 🧱 Backend APIs & web products with Laravel, PHP, PostgreSQL & Inertia.js
-- 🤖 AI agents, WhatsApp automation & LLM integrations in production products
-- 🧪 Unit, integration and UI testing; CI/CD and production delivery
+- 🤖 **AI Agents & Orchestration:** Stateful conversational agents, tool calling, structured outputs, and RAG pipelines (built in production with **Laravel** and expanding into **Python / FastAPI**)
+- ⚡ **Backend & Distributed Systems:** Event-driven APIs, asynchronous queues, and high-concurrency services with **TypeScript (Node.js/Fastify)**, **Python**, and **Laravel**
+- 🏦 **Mission-Critical Banking Mobile:** High-security financial applications, native integrations, and production reliability (**Java, Swift & Objective-C**)
+- 🧪 **Production Engineering:** Automated testing, CI/CD, observability, and containerized deployments (**Docker**)
 
 ## Core stack
 
 <p>
-  <img width="42" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img width="42" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="42" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
-  <img width="42" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img width="42" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img width="42" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img width="42" alt="React and React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img width="42" alt="Expo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
   <img width="42" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt="Inertia.js" src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat&logo=inertia&logoColor=white" />
+  <img width="42" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img width="42" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="42" alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+  <img width="42" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img width="42" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img width="42" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+  <img width="42" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img width="42" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="42" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img width="42" alt="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </p>
 
-## Selected engineering work
+## Featured AI, Backend & Commerce Systems
 
-### Vanty
+### Vanty — Production AI Scheduling & Patient Communication Agent
 
-An AI-powered scheduling and patient communication agent for medical clinics, integrated directly with the official WhatsApp Business API.
+An autonomous AI scheduling and patient communication platform for medical clinics, integrated directly with the official WhatsApp Business API and built with **Laravel**.
 
-Vanty handles automated appointment booking, rescheduling, cancellations, and reminder workflows 24/7, with seamless human handoff to clinic staff when personal attention is required.
+- **Architecture & AI:** Engineered stateful AI agents with tool calling, intent routing, and deterministic guardrails to automate 24/7 appointment booking, rescheduling, cancellations, and reminder workflows.
+- **Reliability:** Built asynchronous queue workers, webhook idempotency controls, and seamless Human-in-the-Loop (HITL) escalation to clinic staff when personal attention is required.
 
 [View website](https://getvanty.com/)
 
+### Copelo — Full-Stack E-Commerce Platform
+
+Production online store and digital commerce engine built with **Laravel & Inertia.js (React/TypeScript)** for high-conversion retail operations.
+
+- **Architecture:** Engineered end-to-end catalog management, real-time inventory synchronization, cart state persistence, and streamlined checkout workflows backed by relational data modeling.
+
+[View website](https://copelo.shop/)
+
+### Cuenta Clara — Personal Finance & Expense Tracking System
+
+A clean, production-grade financial management platform designed for tracking personal expenses, cash flow, and budgeting clarity.
+
+- **Architecture:** Built around deterministic financial ledger calculations, structured transaction categorization, and responsive cross-device state management.
+
+[View website](https://cuentaclara.momotombo.dev/)
+
+---
+
+## Selected Mobile & Cross-Platform Engineering
+
 ### Radio La Tuani 100.3 FM
 
-Production radio application for Android and iOS, built with React Native and Expo.
-
-I developed and delivered both applications, including live audio streaming and custom native integrations for iOS and Android. The project also includes Apple CarPlay support for listening to the station from compatible vehicles.
-
-The production source code is maintained in a private repository.
+Production cross-platform audio streaming system for Android and iOS, built at Momotombo Devs with **TypeScript and React Native (Expo)**, featuring low-latency live streaming, custom native bridges, and Apple CarPlay integration.
 
 [Website](https://www.latuani.com.ni/) ·
 [Google Play](https://play.google.com/store/apps/details?id=ni.com.latuani.app.radio) ·
 [App Store](https://apps.apple.com/ni/app/radio-la-tuani-100-3-fm/id6757318266?l=en-GB)
 
-### Despertá
+### Despertá & NotyApp (Native Android Systems)
 
-A challenge-based alarm application designed to help users start the day alert and focused.
+Production consumer applications published on Google Play built with **Kotlin, Jetpack Compose, Room, Coroutines, and Clean Architecture**, backed by automated test suites and local-first persistence.
 
-Built with **Laravel**, using native Android interfaces rendered with **Jetpack Compose**, local SQLite persistence and platform integrations for exact alarms, notifications and lock-screen behavior.
-
-The application is available on Google Play and includes a public product website and privacy documentation.
-
-[View repository](https://github.com/momotombodevs/desperta) · [View website](https://desperta.momotombo.dev/) · [Google Play](https://play.google.com/store/apps/details?id=dev.momotombo.desperta)
+- **Despertá:** [Repository](https://github.com/momotombodevs/desperta) · [Google Play](https://play.google.com/store/apps/details?id=dev.momotombo.desperta)
+- **NotyApp:** [Repository](https://github.com/donmanueldev/NoteKT) · [Google Play](https://play.google.com/store/apps/details?id=com.manuelduarte077.notyapp)
 
 ## Open-source packages
 
-- **[momotombo/stdnum-centroamerica](https://packagist.org/packages/momotombo/stdnum-centroamerica)** — Zero-dependency PHP library for validating, formatting, and compacting national identity and tax numbers across Central America (Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica, and Panama).
-- **[donmanueldev/nativephp-charts](https://packagist.org/packages/donmanueldev/nativephp-charts)** — Native charting plugin backed by **Jetpack Compose Canvas** on Android and **Swift Charts** on iOS, complete with automated tests and CI.
-- **[momotombo/nativephp-appearance](https://packagist.org/packages/momotombo/nativephp-appearance)** — Application-local light, dark, and system theme appearance management plugin for mobile applications.
+- **[momotombo/stdnum-centroamerica](https://packagist.org/packages/momotombo/stdnum-centroamerica)** — Zero-dependency validation and formatting engine for national identity and tax numbers across Central America.
+- **[donmanueldev/nativephp-charts](https://packagist.org/packages/donmanueldev/nativephp-charts)** — Native rendering bridge backed by **Jetpack Compose Canvas** and **Swift Charts**, complete with automated tests and CI.
+- **[momotombo/nativephp-appearance](https://packagist.org/packages/momotombo/nativephp-appearance)** — Native system theme synchronization plugin for mobile applications.
 
-## Native Android & desktop
+## Background & Additional Stack
 
-### NotyApp
-
-A native Android productivity application for creating notes, managing tasks, organizing content by category and tracking completed work.
-
-Built with **Jetpack Compose, Room, Hilt, Coroutines and Flow**, following MVVM and clean architecture principles. The application supports Material 3, light and dark themes, local persistence and automated tests.
-
-NotyApp is published on Google Play and does not collect or share user data.
-
-[View repository](https://github.com/donmanueldev/NoteKT) · [Google Play](https://play.google.com/store/apps/details?id=com.manuelduarte077.notyapp)
-
-### Mombodoro
-
-A desktop focus timer built with **Compose Desktop**.
-
-Mombodoro includes configurable focus sessions, task management, notifications and native macOS integration through a Swift menu-bar host. Its timer domain, task persistence, UI behavior and native macOS integration are covered by automated tests.
-
-[View repository](https://github.com/donmanueldev/mombodoro) · [View website](https://donmanueldev.github.io/mombodoro/)
-
-## Shipped applications
+With a strong foundation in full-cycle product delivery across banking mobile teams and product studios, I bring production experience across **Java, Swift, Objective-C, Kotlin Multiplatform (KMP), React Native (TypeScript), and PHP/Laravel**—allowing me to bridge backend and AI architectures seamlessly with web and native iOS/Android clients.
 
 <p>
   <a href="https://play.google.com/store/apps/dev?id=6066797066423825901">
@@ -98,22 +94,10 @@ Mombodoro includes configurable focus sessions, task management, notifications a
   </a>
 </p>
 
-- [Vanty — Smart AI Scheduling for Clinics](https://getvanty.com/)
-- Radio La Tuani 100.3 FM — [Android](https://play.google.com/store/apps/details?id=ni.com.latuani.app.radio) · [iOS](https://apps.apple.com/ni/app/radio-la-tuani-100-3-fm/id6757318266?l=en-GB)
-- [Despertá — Google Play](https://play.google.com/store/apps/details?id=dev.momotombo.desperta)
-- [NotyApp — Google Play](https://play.google.com/store/apps/details?id=com.manuelduarte077.notyapp)
-- [Cuenta Clara](https://cuentaclara.momotombo.dev/)
-- [Todo Anotadito](https://www.donmanuel.dev/projects/todoanotadito)
-- [TuCambio — App Store](https://apps.apple.com/ni/app/tucambio/id6744262206)
-
-## Additional experience
-
-I also have experience with secondary technologies such as **Swift, Objective-C, Spring Boot and Kotlin Multiplatform (KMP)**, supporting legacy systems, native iOS modules and enterprise backend integrations.
-
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Duarte-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelduarte077/)
-[![Website](https://img.shields.io/badge/Website-momotombo.dev-24292F?style=flat&logo=google-chrome&logoColor=white)](https://www.momotombo.dev)
+[![Website](https://img.shields.io/badge/Website-donmanuel.dev-24292F?style=flat&logo=google-chrome&logoColor=white)](https://www.donmanuel.dev)
 [![X](https://img.shields.io/badge/X-@donmanueldev-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/donmanueldev)
 
 ## My GitHub stats
