@@ -1,17 +1,17 @@
 # Hello, I’m Manuel Duarte 👋
 
-I’m a **Senior Software Engineer** based in Managua, Nicaragua 🇳🇮, transitioning my deep background in **mission-critical mobile banking systems** and **production SaaS/backend products** toward **distributed backend architectures (TypeScript, Node.js, Python)** and **autonomous AI agent workflows**.
+I’m a **Software Engineer** based in Managua, Nicaragua 🇳🇮. I build production mobile apps, web platforms and AI agents, with **React Native and TypeScript** on the client and **Laravel and Node.js** on the backend.
 
 I’m also a **co-founder and COO at Momotombo Devs**, where we architect and ship production SaaS, e-commerce, mobile, and AI-driven products including **Vanty, Copelo, Cuenta Clara, Plun, QLNK, and MiLiga**.
 
-In my day-to-day work in digital banking, I serve as a **Mobile Engineer**, building and maintaining mission-critical financial applications (**Java**, **Swift**, and **Objective-C**) under strict security, concurrency, and compliance standards. Alongside my banking role, at **Momotombo Devs** I architect backend services, cross-platform mobile apps (**React Native / TypeScript**), web platforms (**Laravel / Inertia.js**), and **production AI agents**—actively expanding my backend and AI engineering stack into **TypeScript (Fastify), Python (FastAPI), PostgreSQL (`pgvector`), and Redis**.
+In my day-to-day work in digital banking, I build and maintain mission-critical mobile financial applications (**Java**, **Swift**, and **Objective-C**) under strict security, concurrency, and compliance standards. At **Momotombo Devs** I build backend services, cross-platform mobile apps (**React Native / TypeScript**), web platforms (**Laravel / Inertia.js**), and **production AI agents**, and I’m expanding my backend and AI stack into **TypeScript (Fastify), Python (FastAPI), PostgreSQL (`pgvector`), and Redis**.
 
 ## Current focus
 
-- 🤖 **AI Agents & Orchestration:** Stateful conversational agents, tool calling, structured outputs, and RAG pipelines (built in production with **Laravel** and expanding into **Python / FastAPI**)
-- ⚡ **Backend & Distributed Systems:** Event-driven APIs, asynchronous queues, and high-concurrency services with **TypeScript (Node.js/Fastify)**, **Python**, and **Laravel**
-- 🏦 **Mission-Critical Banking Mobile:** High-security financial applications, native integrations, and production reliability (**Java, Swift & Objective-C**)
-- 🧪 **Production Engineering:** Automated testing, CI/CD, observability, and containerized deployments (**Docker**)
+- 🤖 **AI agents:** conversational agents, tool calling, structured outputs, and RAG pipelines (in production with **Laravel**, expanding into **Python / FastAPI**)
+- ⚡ **Backend & APIs:** asynchronous queues, webhooks, and REST APIs with **TypeScript (Node.js/Fastify)**, **Python**, and **Laravel**
+- 🏦 **Mobile banking:** secure financial applications, native integrations, and production reliability (**Java, Swift & Objective-C**)
+- 🧪 **Production engineering:** automated testing, CI/CD, observability, and containerized deployments (**Docker**)
 
 ## Core stack
 
@@ -25,7 +25,6 @@ In my day-to-day work in digital banking, I serve as a **Mobile Engineer**, buil
   <img width="42" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
   <img width="42" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img width="42" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="42" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img width="42" alt="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </p>
 
@@ -40,6 +39,15 @@ An autonomous AI scheduling and patient communication platform for medical clini
 
 [View website](https://getvanty.com/)
 
+### Plun — Local Business Platform
+
+A modular platform that connects local businesses, starting with restaurants, with their customers: delivery directory, coupons, loyalty, ordering, and table reservations. Live at getplun.com with its first business clients.
+
+- **Products:** The platform includes the customer app, **Plun Local** (operations for waiters and kitchen), **Plun Repartidor** (delivery riders), and **Plun Web** (business dashboard, digital menus, and coupon explorer), all sharing one design system.
+- **Engineering:** React Native mobile apps and a web platform organized as independent modules (coupons, loyalty, ordering, and table bookings), so each business adopts only what it needs.
+
+[View website](https://getplun.com/)
+
 ### Copelo — Full-Stack E-Commerce Platform
 
 Production online store and digital commerce engine built with **Laravel & Inertia.js (React/TypeScript)** for high-conversion retail operations.
@@ -48,17 +56,18 @@ Production online store and digital commerce engine built with **Laravel & Inert
 
 [View website](https://copelo.shop/)
 
-### Cuenta Clara — Personal Finance & Expense Tracking System
+### Cuenta Clara — Shared Expenses App
 
-A clean, production-grade financial management platform designed for tracking personal expenses, cash flow, and budgeting clarity.
+A simple, free app to split bills and shared expenses with friends, such as trips, group dinners, and shared rentals, with clear balances showing who owes whom, a payment history, and reminders to settle up. Available on iOS and Android.
 
-- **Architecture:** Built around deterministic financial ledger calculations, structured transaction categorization, and responsive cross-device state management.
+- **Architecture:** Backed by Firebase, with deterministic balance calculations.
 
-[View website](https://cuentaclara.momotombo.dev/)
+[Website](https://cuentaclara.momotombo.dev/) ·
+[App Store](https://apps.apple.com/ni/app/cuenta-clara/id6743010799?l=en-GB)
 
 ---
 
-## Selected Mobile & Cross-Platform Engineering
+## Selected Mobile Engineering
 
 ### Radio La Tuani 100.3 FM
 
@@ -68,13 +77,6 @@ Production cross-platform audio streaming system for Android and iOS, built at M
 [Google Play](https://play.google.com/store/apps/details?id=ni.com.latuani.app.radio) ·
 [App Store](https://apps.apple.com/ni/app/radio-la-tuani-100-3-fm/id6757318266?l=en-GB)
 
-### Despertá & NotyApp (Native Android Systems)
-
-Production consumer applications published on Google Play built with **Kotlin, Jetpack Compose, Room, Coroutines, and Clean Architecture**, backed by automated test suites and local-first persistence.
-
-- **Despertá:** [Repository](https://github.com/momotombodevs/desperta) · [Google Play](https://play.google.com/store/apps/details?id=dev.momotombo.desperta)
-- **NotyApp:** [Repository](https://github.com/donmanueldev/NoteKT) · [Google Play](https://play.google.com/store/apps/details?id=com.manuelduarte077.notyapp)
-
 ## Open-source packages
 
 - **[momotombo/stdnum-centroamerica](https://packagist.org/packages/momotombo/stdnum-centroamerica)** — Zero-dependency validation and formatting engine for national identity and tax numbers across Central America.
@@ -83,7 +85,7 @@ Production consumer applications published on Google Play built with **Kotlin, J
 
 ## Background & Additional Stack
 
-With a strong foundation in full-cycle product delivery across banking mobile teams and product studios, I bring production experience across **Java, Swift, Objective-C, Kotlin Multiplatform (KMP), React Native (TypeScript), and PHP/Laravel**—allowing me to bridge backend and AI architectures seamlessly with web and native iOS/Android clients.
+With a strong foundation in full-cycle product delivery across banking mobile teams and product studios, I bring production experience across **Java, Swift, Objective-C, React Native (TypeScript), and PHP/Laravel**, allowing me to bridge backend and AI architectures seamlessly with web and native iOS/Android clients.
 
 <p>
   <a href="https://play.google.com/store/apps/dev?id=6066797066423825901">
@@ -96,7 +98,7 @@ With a strong foundation in full-cycle product delivery across banking mobile te
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Duarte-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelduarte077/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Duarte-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donmanueldev/)
 [![Website](https://img.shields.io/badge/Website-donmanuel.dev-24292F?style=flat&logo=google-chrome&logoColor=white)](https://www.donmanuel.dev)
 [![X](https://img.shields.io/badge/X-@donmanueldev-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/donmanueldev)
 
